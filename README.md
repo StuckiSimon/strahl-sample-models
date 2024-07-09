@@ -1,2 +1,3 @@
 # strahl-sample-models
-Unlicensed sample models for strahl demonstrations
+
+Unlicensed sample models for strahl demonstrations.
