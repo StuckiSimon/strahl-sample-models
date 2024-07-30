@@ -1,6 +1,6 @@
 # strahl-sample-models
 
-Unlicensed sample models for strahl demonstrations.
+Unlicensed sample models for strahl demonstrations. See the main repo for details about [`strahl`](https://github.com/StuckiSimon/strahl).
 
 ## Permissions / License
 
